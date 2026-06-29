@@ -9,6 +9,7 @@ Benvenuti nel mio [portfolio](https://pasqualevassallo.github.io/portfolio/) di 
 * **[Protocolli di Sicurezza e Sistemi di Rete](https://github.com/pasqualevassallo/SpearPhishing-ARP-DNS-Spoofing)**: Simulazione di attacchi di ingegneria sociale, ARP Poisoning e DNS Spoofing con iniezione di Reverse TCP Shell.
 * **[Metodi di Ottimizzazione](https://github.com/pasqualevassallo/ESA-SpOC2-Optimization)**: Progetto di ottimizzazione sviluppato per la Space Optimisation Challenge – Quantum Communications Constellations, proposta dall’European Space Agency (ESA).
 * **[Multivariable Feedback Control](https://github.com/pasqualevassallo/Unstable-System-Control)**: Analisi, stabilizzazione e controllo di un sistema instabile di ordine 4. Include sintesi LQR, LQG e procedura LTR per il recupero della robustezza.
+* **[Strumentazione Virtuale per Automazione Industriale](https://github.com/pasqualevassallo/RC-Filter-DAQ-VISA-Characterization)** Caratterizzazione di due filtri RC del 1°ordine (passa-basso e passa-alto) tramite acquisizione dati (DAQ) e comunicazione strumentale con protocollo VISA.
 
 ---
 
